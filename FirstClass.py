@@ -20,3 +20,6 @@ else:
 print("Result:", result)
 #This code is a simple calculator that takes two numbers and an operation as input and returns the result.
 #It handles basic arithmetic operations and checks for division by zero.
+# Strings:
+nm = "Harry"
+print(nm[-4: -2])
